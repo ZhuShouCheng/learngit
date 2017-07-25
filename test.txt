@@ -2,3 +2,4 @@ I must learn it.
 Git 
 ÄãºÃ
 hi
+git tracks changes
